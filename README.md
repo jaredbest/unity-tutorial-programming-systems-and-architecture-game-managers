@@ -1,6 +1,6 @@
 # Course Repo
 
 - **Title:** Programming Systems and Architecture: Game Managers
-- **Taught by:** Unity Technologies
+- **Instructor:** Unity Technologies
 - **Platform:** Unity Learn
 - **Note(s):**
